@@ -5,12 +5,13 @@ begin
   require 'jeweler'
   Jeweler::Tasks.new do |gem|
     gem.name = "groopbuyr"
-    gem.summary = %Q{TODO: one-line summary of your gem}
-    gem.description = %Q{TODO: longer description of your gem}
+    gem.summary = %Q{ruby wrapper for the GroopBuy API}
+    gem.description = %Q{ruby wrapper for the GroopBuy API}
     gem.email = "dave@elkinsware.com"
     gem.homepage = "http://github.com/elkinsware/groopbuyr"
     gem.authors = ["dave elkins"]
     # gem is a Gem::Specification... see http://www.rubygems.org/read/chapter/20 for additional settings
+    gem.add_dependency('httparty')
   end
   Jeweler::GemcutterTasks.new
 rescue LoadError
