@@ -23,6 +23,7 @@ Gem::Specification.new do |s|
      "README.rdoc",
      "Rakefile",
      "VERSION",
+     "groopbuyr.gemspec",
      "lib/groopbuyr.rb",
      "test/helper.rb",
      "test/test_groopbuyr.rb"

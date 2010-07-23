@@ -59,6 +59,6 @@ class GroopBuyr
       end
       
       protected :dealSource=, :dealExpirationDateTime=, :dealImageUrl=, :dealHeadline=, :dealExpirationDateTimeZone=,
-                    :dealUrl=, :dealAmount=, :dealSourceUrl, :dealValue=
+                    :dealUrl=, :dealAmount=, :dealSourceUrl=, :dealValue=
     end
 end
