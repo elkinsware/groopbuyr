@@ -1,6 +1,6 @@
 = GroopBuyr
 
-**PLEASE USE DailyDealr instead. [http://github.com/elkinsware/dailydealr](http://github.com/elkinsware/dailydealr)**
+= PLEASE USE DailyDealr instead. http://github.com/elkinsware/dailydealr
 
 GroopBuyr gem is a ruby wrapper for the GroopBuy API.  This gem uses HTTParty gem.
 
