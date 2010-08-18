@@ -5,8 +5,8 @@ begin
   require 'jeweler'
   Jeweler::Tasks.new do |gem|
     gem.name = "groopbuyr"
-    gem.summary = %Q{ruby wrapper for the GroopBuy API}
-    gem.description = %Q{ruby wrapper for the GroopBuy API}
+    gem.summary = "ruby wrapper for the GroopBuy API"
+    gem.description = "ruby wrapper for the GroopBuy API"
     gem.email = "dave@elkinsware.com"
     gem.homepage = "http://github.com/elkinsware/groopbuyr"
     gem.authors = ["dave elkins"]
