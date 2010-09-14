@@ -10,7 +10,7 @@ class GroopBuyr
   format :json
   
   def initialize(options = {})
-    @base_url = "http://api.dailydeal.com/get"
+    @base_url = "http://api.groopbuy.com/get"
     @version = "1.0"
     @format = :json
   end
